@@ -1,0 +1,123 @@
+body {
+				background-color: white;
+
+}
+h1 {
+				font-size: 300%;
+				text-align: center;
+}
+
+a.button{
+    			color:blue;
+    			padding:5px 20px;
+    			font-family:Arial,Helvetica,sans-serif;
+    			font-size:15px;
+    			font-weight:bold;
+    			text-align:center;
+    			border:1px solid #60b4e5;
+    			margin:50px auto;
+    			float:center;
+    			clear:both;
+}
+
+a.button:hover{
+    			/* Lighter gradients for the hover effect */
+    			text-decoration:none;
+    			background-color: #F902B6;
+    			background-image: -moz-linear-gradient(#6bbbe9, #57a5d4);
+    			background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#6bbbe9), to(#57a5d4));
+}
+
+input.submit{
+	
+				color:blue;
+    			padding:5px 20px;
+    			font-family:Arial,Helvetica,sans-serif;
+    			font-size:15px;
+    			font-weight:bold;
+    			text-align:center;
+    			border:1px solid #60b4e5;
+    			margin:50px auto;
+    			float:center;
+    			clear:both;
+}
+
+input.submit:hover{
+    			/* Lighter gradients for the hover effect */
+    			text-decoration:none;
+    			background-color: #F902B6;
+    			background-image: -moz-linear-gradient(#6bbbe9, #57a5d4);
+    			background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#6bbbe9), to(#57a5d4));
+	
+	
+	
+}
+
+#authentification{
+				color:red;
+    			padding:5px 20px;
+    			font-family:Arial,Helvetica,sans-serif;
+    			font-size:15px;
+    			font-weight:bold;
+    			text-align:center;
+    			border:1px solid #60b4e5;
+    			margin:10px auto;
+    			float:center;
+    			clear:both;
+	
+}
+
+#authentification:hover{
+    			/* Lighter gradients for the hover effect */
+    			text-decoration:none;
+    			background-color: red;
+    			background-image: -moz-linear-gradient(#6bbbe9, #57a5d4);
+    			background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#6bbbe9), to(#57a5d4));
+				
+}
+
+#location_avis{
+				color:red;
+    			padding:5px 20px;
+    			font-family:Arial,Helvetica,sans-serif;
+    			font-size:15px;
+    			font-weight:bold;
+    			text-align:center;
+    			border:1px solid #60b4e5;
+    			margin:10px auto;
+    			float:center;
+    			clear:both;
+	
+}
+
+#location_avis:hover{
+    			/* Lighter gradients for the hover effect */
+    			text-decoration:none;
+    			background-color: red;
+    			background-image: -moz-linear-gradient(#6bbbe9, #57a5d4);
+    			background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#6bbbe9), to(#57a5d4));
+	
+}	
+
+#inscription{
+				color:red;
+    			padding:5px 20px;
+    			font-family:Arial,Helvetica,sans-serif;
+    			font-size:15px;
+    			font-weight:bold;
+    			text-align:center;
+    			border:1px solid #60b4e5;
+    			margin:10px auto;
+    			float:center;
+    			clear:both;
+	
+}
+
+#inscription:hover{
+    			/* Lighter gradients for the hover effect */
+    			text-decoration:none;
+    			background-color: red;
+    			background-image: -moz-linear-gradient(#6bbbe9, #57a5d4);
+    			background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#6bbbe9), to(#57a5d4));
+	
+}	
